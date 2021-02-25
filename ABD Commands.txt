@@ -1,4 +1,3 @@
-HI Guys 
 HDFS
 ----
 
@@ -55,3 +54,5 @@ MapReduce Program Procedure
 
 /opt/hadoop/share/hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.2.1-sources --> contains set of examples for reference     
                                      
+Hello				     
+				     
